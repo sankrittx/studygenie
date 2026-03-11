@@ -22,3 +22,4 @@ git clone https://github.com/sankrittx/studygenie.git
 cd studygenie
 npm install
 npx expo start
+⚠️ This project is currently under active development. Some features may not work as expected.
